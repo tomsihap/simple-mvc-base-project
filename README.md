@@ -1,4 +1,4 @@
-# Projet WF3-MVC
+# Projet SIMPLE-MVC
 
 > Vous utiliserez ce repository comme projet de base pour votre examen.
 
